@@ -1,0 +1,17 @@
+{
+  "providers": [
+    {
+      "id": "movixvf",
+      "name": "Movix VF",
+      "description": "Movix (movix.fun) - fstream + cpasmal, VF/VOSTFR",
+      "version": "0.1.0",
+      "author": "toi",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "movixvf.js",
+      "enabled": true,
+      "contentLanguage": ["fr"],
+      "formats": ["m3u8"],
+      "limited": false
+    }
+  ]
+}
